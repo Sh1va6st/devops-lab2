@@ -1,1 +1,1 @@
-# devops-lab2
+# DevOps Lab 2
